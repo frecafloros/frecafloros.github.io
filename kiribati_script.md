@@ -3,10 +3,10 @@
 Ko na mauri.  
 みなさんこんにちは。  
   
-I rabakau n te taetae ni Kiribati. I tuai n rabakau raoi n te taetae ni Kiribati bwa I a tibwa reirei.  
+I a taetae ni Kiribati. I tuai n rabakau raoi n te taetae ni Kiribati bwa I a reirei.  
 私は今キリバス語を話しています。キリバス語を学習中なので、うまく話せていないかもしれません。  
   
-I maeka i Tiaban.  
+I maeka i Tiaban, ao I aki nako nakon Kiribati, ma I reirei iroun intanete.  
 私は日本に住んでいて、キリバスに行ったことはありませんが、インターネットで独学しています。  
   
 キリバスは太平洋の島国です。  
