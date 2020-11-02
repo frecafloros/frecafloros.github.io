@@ -158,7 +158,7 @@ _あとで見直す特に3.3節_
 ## 3.1 数(configuration)
   
 数は、物理的な類似性、関係性を表す
-数には、単数(uniplex)、双数(duplex)、同散複数(discrete)、異散複数(aggregative)、同連複数(segmentative)、異連複数(componential)、同密複数(coherent)、異密複数(composite)、混沌複数(multiform)の９つがある
+数には、単(uniplex)、双(duplex)、隊(discrete)、群(aggregative)、鎖(segmentative)、串(componential)、結合(coherent)、組合(composite)、雑(multiform)の９つがある
 
 --3.1.1 単数<UNI>(uniplex)
 
