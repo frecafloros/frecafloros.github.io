@@ -152,7 +152,7 @@ IV項(Vr)は３つの型に分けられ、それぞれの型はさらに３つ�
 # 3. 形態論（基本編）(basic morphology)
 _あとで見直す特に3.3節_  
   
-イスクイル単語の動詞性、名詞性は、９つの数(configuration)、４つの属(affiliation)、４つの制(perspective)、６つのextension、２つのEssenes、４つのcontext、２つのdesignationによって規定される
+イスクイル単語の動詞性、名詞性は、９つの数(configuration)、４つの属(affiliation)、４つの界(perspective)、６つの域(extension)、２つの本質(Essenes)、４つの文脈(context)、２つの措定(designation)によって規定される
 これはX項(Ca)、XII項(Vf)、XV項([stress])によって表される
   
 ## 3.1 数(configuration)
