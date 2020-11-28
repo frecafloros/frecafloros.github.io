@@ -156,10 +156,10 @@ IV項(Vr)は３つの型に分けられ、それぞれの型はさらに３つ�
 # 3. 形態論（基本編）(basic morphology)
 _あとで見直す特に3.3節_  
   
-イスクイル単語の動詞性、名詞性は、９つの数(configuration)、４つの属(affiliation)、４つの界(perspective)、６つの域(extension)、２つの本質(Essenes)、４つの文脈(context)、２つの措定(designation)によって規定される
+イスクイル単語の動詞性、名詞性は、９つの形状(configuration)、４つの属(affiliation)、４つの界(perspective)、６つの域(extension)、２つの本質(Essenes)、４つの文脈(context)、２つの措定(designation)によって規定される
 これはX項(Ca)、XII項(Vf)、XV項([stress])によって表される
   
-## 3.1 数(configuration)
+## 3.1 形状(configuration)
   
 数は、物理的な類似性、関係性を表す
 数には、単(uniplex)、双(duplex)、隊(discrete)、群(aggregative)、鎖(segmentative)、串(componential)、結合(coherent)、組合(composite)、雑(multiform)の９つがある
@@ -1147,6 +1147,34 @@ DYN-‘study’-NRM/TRM/M/CSL/UNI-FML-EFC    STA-[carrier stem]-OBL-NRM/DEL/M/CS
 # 8. 付加修飾語(adjuncts)
 # 9. 統語論(syntax)
 # 10. 語彙意味論(lexico-semantics)
+語彙（語根）の意味論  
+イスクイルの音韻空間に存在しうる語根は最大で約3600であるが、これで十分だという話。  
+  
+## 10.1 systematic morphological derivation
+## 10.2 the use of derivational suffixes
+## 10.3 形状、属、文脈の用法(the use of configuration, affiliation, and context)
+これらは基本語根から合成的、総合的、創発的な概念を構成することができる。  
+
+### 10.3.1 形状(configuration)
+bone → skeleton  
+strut/girder → frame → framework  
+component → structure → system  
+ingredient → compound  
+food → dish → meal  
+tool → toolset  
+do/perform → coordinate  
+vehicle → convoy  
+person → group → crowd → masses  
+activity → process  
+|uni|dpx|dct|agg|seg|cpn|coh|cst|mlt|
+|---|---|---|---|---|---|---|---|---|
+|骨|||||||骨格||
+||||||||||
+|道具|||道具一式||||||
+
+### 10.3.2 属(affiliation)
+### 10.3.3 文脈(context)
+
 # 11. 表記体系(the writing system)
 
 # 12. 数体系(the number system)
