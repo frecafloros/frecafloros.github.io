@@ -1,4 +1,4 @@
-イスクイル文法　日本語解説（雑訳、だいぶ意訳と注釈付き）  
+イスクイル文法　日本語解説（だいぶ意訳、注釈付き、雑訳なので原文を確認してください。責任はとりません。）  
 イスクイルただの抱合語説  
 文法要素と造語要素を分離すれば単純化されそう  
   
@@ -1151,11 +1151,14 @@ DYN-‘study’-NRM/TRM/M/CSL/UNI-FML-EFC    STA-[carrier stem]-OBL-NRM/DEL/M/CS
 イスクイルの音韻空間に存在しうる語根は最大で約3600であるが、これで十分だという話。  
   
 ## 10.1 systematic morphological derivation
-## 10.2 the use of derivational suffixes
-## 10.3 形状、属、文脈の用法(the use of configuration, affiliation, and context)
+### 10.1.1
+### 10.1.2 the use of derivational suffixes
+### 10.1.3 形状、属、文脈の用法(the use of configuration, affiliation, and context)
 これらは基本語根から合成的、総合的、創発的な概念を構成することができる。  
 
-### 10.3.1 形状(configuration)
+#### 10.1.3.1 形状(configuration)
+3.1節で、9つの形状(configuration)それぞれを語幹に作用させることで、自然言語おいて別単語に翻訳せねばならないような単語の生成のされ方を見て来た。例えば、
+  
 bone → skeleton  
 strut/girder → frame → framework  
 component → structure → system  
@@ -1166,15 +1169,42 @@ do/perform → coordinate
 vehicle → convoy  
 person → group → crowd → masses  
 activity → process  
+  
+```
+訳者注釈: 原文が英語なので上の語義派生は英語のまま載せたが、再解釈したものを下に日本語で載せる。  
+```
+  
 |uni|dpx|dct|agg|seg|cpn|coh|cst|mlt|
 |---|---|---|---|---|---|---|---|---|
 |骨|||||||骨格||
 ||||||||||
 |道具|||道具一式||||||
+||||||||||
+|一人の人|二人の人|画一的な人々|多様な人々|整列した画一的な人々|整列した多様な人々|||烏合の衆|
 
-### 10.3.2 属(affiliation)
-### 10.3.3 文脈(context)
+#### 10.1.3.2 属(affiliation)
+#### 10.1.3.3 文脈(context)
 
+## 10.2
+## 10.3
+## 10.4 lexical generalization
+## 10.5 lexical differentiation
+## 10.6 西洋諸語との比較 (comparison to western categorization)
+西洋の言語にはいくつかの単語や概念があるが、イスクイルに完全対応するものはない。これらには、動詞 "to be "や "to have "に具現化された概念が含まれる。イスクイル には、"be "や "being "に対応するコピュラ識別を真に表現する方法はなく、また "have "に相当する所有や所有権の直訳もない。本質的にこれは、イスクイルの文法と語彙意味論が固有の実存的同一性や固有の実存的所有を、真の意味的機能カテゴリや基本的な認知的プリミティブとして認識していないからである。
+  
+```
+訳者注釈：無論、日本語とも対応しないが、日本語は印欧語ではないので、日本語との比較という点ではちょっと下の説明はポイントがずれてるかもしれない。
+```
+  
+### 10.6.1 繋辞（コピュラ）の訳し方 (translating "to be")
+### 10.6.2 「持つ」の訳し方 (translating "to have")
+### 10.6.3 「はい」、「いいえ」、その他間投詞 ("yes", "no", and other interjections)
+### 10.6.4 疑問詞 ("wh"-questions)
+イスクイルには、「何を」、「どこで」、「いつ」、「なぜ」、「どのように」などの疑問詞に相当する単語がない。代わりに、DIRECTIVE illocution（SOLICITIVE biasも入っていると望ましい）を使用する。つまり、「トイレはどこですか？」や 「あなたの名前は何ですか？」という代わりに、「トイレの場所を言ってください」や「あなた自身の名前を言ってください」のように表現する。
+  
+### 10.6.5 比喩的フレーズの翻訳 (translating metaphorically structured phrases)
+イスクイル文法では、私たちの日常経験の理解と表現の多くが、比喩とメトノニム（後者は、The ham-and-cheese wants fries with his orderやThe White House has its nose in our businessのように、属性や連想、活動の一つによって実体を参照することである）で構成されていることを認識している。イスクイルは、いくつかの方法で比喩的概念のあからさまな指定を可能にする。これらには、representational文脈、語根の組み込み(stem imcorporation)、metonymic<met>接辞-qt、および2つの部分-全体の<PTF>接辞-rsと<PTG>接辞-šが含まれる。
+  
 # 11. 表記体系(the writing system)
 
 # 12. 数体系(the number system)
@@ -1211,7 +1241,8 @@ degree		suffix		meaning
 ## 12.4 writing numerals
 （イスクイルの数「字」については省略、公式を見て）  
 1～10までは-a-l-をつけて（当然文中では屈折する）llal, ksal, ţkal, ...のように続く。  
-11～99は、1の位の数に10の位の接尾辞を付ける。11ならllalik(1+10), 79ならxmalok(9+70), 20とか30とかはmřalik(10+10), mřalök(10+20)のようになるので注意。（この理屈だと100がmřalukになりそうだがおそらく使わない（使ってはいけないのかはちょっとよくわからなかった））  
+11～99は、1の位の数に10の位の接尾辞を付ける。11ならllalik(1+10), 79ならxmalok(9+70), 20とか30とかはmřalik(10+10), mřalök(10+20)のようになるので
+注意。（この理屈だと100がmřalukになりそうだがおそらく使わない（使ってはいけないのかはちょっとよくわからなかった））  
 イスクイルは100進数を採用してるっぽいです。位取りはňial（ňalのpertitive格）。  
 「2桁 ňial 2桁」の形になるので2079ならmřalik ňial xmalok。下二桁が00以外の時はňialは省略可能。2079はmřalik xmalokでもいいけど2000はmřalik ňial。  
 それ以上の位取りは4桁区切りなので日本語母語話者は馴染みやすいと思われる。  
