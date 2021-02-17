@@ -1101,14 +1101,14 @@ CNT-DYN-‘job/employment’-NRM/PRX/M/ASO/UNI-FML     ma-IND     **FRAMED**-FML
 「彼は長時間耐えねばならぬことが本当は嫌だが働き続けている」  
 （framedにした意味…？）  
   
-## 5.8 版(version)
+## 5.8 転換(version)
 声調は7種類あった。平(mid)、高(high)、低(low)、下(falling)、上(rising)、隆(rising-falling)、垂(falling-rising)。  
 実際は、平以外の声調を使って6つの版を区別する。下がデフォ。  
   
-### 5.8.1 不完了？(processual)<PRC>
-下。版の標準形。特に明確な目的意識は含まない。  
+### 5.8.1 非完結(processual)<PRC>
+下降調。これは転換の標準形であり、特に明確な目的意識を含まない全ての行為、状況、出来事を描写する。つまりこれらは結果や最終目標に焦点を当てない。  
   
-### 5.8.2 完了(completive)<CPT>
+### 5.8.2 完結(completive)<CPT>
 高。結果や最終的な状態を表す。  
   
 不完了→完了  
@@ -1143,6 +1143,10 @@ DYN-‘study’-NRM/TRM/M/CSL/UNI-FML-EFC    STA-[carrier stem]-OBL-NRM/DEL/M/CS
   
 
 # 6. 形態論（動詞編２）(more basic morphology)
+# 6.1 modality
+# 6.2 level
+# 6.3
+# 6.4
 # 7. 接尾辞(suffixes)
 ## 7.1 VxC Suffixes
 ## 7.2 接尾辞のタイプ (Suffix-Types)
